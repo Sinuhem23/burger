@@ -12,7 +12,8 @@ else {
             
         user: "szie0xjakkjq565i",
         password: "px60pdozqebcrgvp",
-        database: "md1k043bluvk3e2t"
+        database: "md1k043bluvk3e2t",
+        dialect: 'mysql'
     });
 }
 
