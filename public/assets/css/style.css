@@ -1,0 +1,68 @@
+body {
+    font-family: 'Germania One', cursive;
+    width: 100%;
+    background-image: url('../img/Vegan-Black-Bean-Burger.jpg');
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    
+}
+.adding {
+    margin-right: 55%;
+}
+.Allin {
+    color:black;
+}
+.sectionTheme {
+    background-color: rgb(236, 140, 84);
+    opacity: .78;
+    margin-left: 14%;
+    margin-right: 34%;
+    margin-top: 5%;
+    padding: 10px;
+
+
+}
+.mainStuff {
+    background-color: rgb(39, 156, 59);
+    padding: 10px;
+
+}
+.mainStuff2 {
+    background-color: brown;
+    padding: 10px;
+}
+.ulColors {
+    color:white;
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+
+#avail {
+    float: left;
+    margin-right: 6%;
+    margin-left: 5%;
+
+
+}
+
+#devoured {
+    float: left;
+
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#add {
+    clear: both;
+    margin-left: 25%;
+}
