@@ -12,7 +12,7 @@ else {
             
         user: "wywv80da5kfclj85",
         password: "jal3sm2mai28wth8",
-        database: "h9fdlw1dzxy5cpsh"
+        database: "burgers_db"
     });
 }
 
