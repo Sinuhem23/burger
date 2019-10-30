@@ -1,7 +1,9 @@
   
-USE burgers_db;
+
 
 DROP TABLE IF EXISTS burgers;
+
+USE burgers_db;
 
 CREATE TABLE burgers(
 	id INTEGER auto_increment not null,
